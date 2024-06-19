@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# myBike
 
-To use this template click `Use this template`
+ To check Demo of this project you can follow [DEMO](https://ayupko.github.io/TodoApp/).
 
-### Available Scripts
+## Description
+Task management application that integrates with an API.
+- Working with data on server: fetching, updating, inserting;
+- Error handling;
 
-`Deploy` - available to deploy your application to gh-pages
+## Technologies used
+- JavaScript;
+- React;
+- TypeScript;
+- HTML;
+- SCSS;
+- Bulma;
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Contacts
+Anton Yupko - [Telegram](https://t.me/Yupko_Anton) · [LinkedIn](https://www.linkedin.com/in/anton-yupko-6109a3272/) · [GitHub](https://github.com/AYupko)
